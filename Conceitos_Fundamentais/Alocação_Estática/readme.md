@@ -1,1 +1,1 @@
-# explicando o tipo de alocação de memória da pastaS
+# explicando o tipo de alocação de memória da pastas
