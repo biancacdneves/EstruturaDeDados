@@ -1,0 +1,1 @@
+# explicando o funcionamento da estrutura de dados da pasta,

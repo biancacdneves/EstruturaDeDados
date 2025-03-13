@@ -1,0 +1,1 @@
+'''exemplificando o funcionamento da estrutura de dados.'''

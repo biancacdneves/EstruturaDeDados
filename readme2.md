@@ -1,0 +1,1 @@
+ # explicando o problema prático escolhido e um arquivo .py ou .js com a resolução do problema prático utilizando a estrutura de dados escolhida.
