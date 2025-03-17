@@ -1,6 +1,6 @@
 # 2. Definição e importância das Estruturas de Dados no Desenvolvimento de Programas:
 
-# explicando como as estruturas de dados impactam o desempenho de um programa
+# Explicando como as estruturas de dados impactam o desempenho de um programa.
 
 As estruturas de dados lineares organizam informações em uma sequência direta, como uma fila. Cada item se conecta ao próximo, formando uma cadeia contínua. Para acessar um dado específico, você precisa seguir a ordem da sequência, um elemento por vez. A implementação dessas estruturas é facilitada pela natureza linear da memória do computador.
 
