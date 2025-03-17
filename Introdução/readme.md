@@ -19,6 +19,14 @@ Cada tipo de estrutura de dados oferece métodos específicos para realizar oper
 #.Buscar e localizar elementos;
 #.Ordenar (ou classificar) elementos de acordo com uma ordem pré-definida.
 
+São esses os tipos Comuns de Estruturas de Dados:
+Listas: Sequências ordenadas de elementos, em que cada elemento pode ser acessado por seu índice.
+Pilhas (Stacks): Estrutura que segue a ordem LIFO (Last In, First Out), ou seja, o último elemento inserido é o primeiro a ser retirado.
+Filas (Queues): Estrutura que segue a ordem FIFO (First In, First Out), onde o primeiro elemento a ser inserido é o primeiro a ser retirado.
+Árvores: Estruturas hierárquicas de dados, com um nó raiz e filhos, permitindo representar relações de hierarquia.
+Grafos: Conjunto de nós conectados por arestas, usados para representar redes e relações complexas entre elementos.
+Tabelas Hash: Estrutura que associa chaves a valores, permitindo buscas rápidas através de uma função hash.
+
 São exemplos de problemas do mundo real que podem ser resolvidos com o uso de estruturas de dados:
 
 Sistema de gerenciamento de estoque (Listas e Filas)
