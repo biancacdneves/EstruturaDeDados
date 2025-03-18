@@ -78,6 +78,6 @@ lista = [1, 2, 3, 4]  # Lista alocada dinamicamente na Heap
 - Em linguagens como **C, a alocação é manual**, enquanto em **Python é automática**.
 - **Entender alocação de memória melhora a eficiência do programa** e evita desperdício de recursos.
 
-📌 Se precisar de mais informações, explore a documentação oficial da linguagem que estiver usando! 🚀
+
 
 
