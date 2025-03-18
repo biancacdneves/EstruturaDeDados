@@ -17,3 +17,9 @@ Ao contrário do array, as linguagens de programação normalmente não têm mé
 Um dos exemplos mais conhecidos do uso de pilhas é a call stack (pilha de chamadas) em um programa em execução. Quando um programa chama funções ou métodos, a ordem de execução segue o princípio da pilha, com cada chamada sendo empilhada e executada de acordo com essa estrutura.
 
 Outro exemplo cotidiano que utiliza pilhas é o mecanismo de "voltar" e "avançar" páginas nos navegadores (geralmente representado pelas setas para a esquerda e direita). À medida que navegamos, os endereços das páginas visitadas são empilhados, e quando usamos a função "voltar", o último endereço visitado (o que está no topo da pilha) é o primeiro a ser exibido novamente.
+
+
+Suas Principais Operações são: 
+Desempilhar (pop): Remove o elemento do topo.
+Empilhar (push): Adiciona um elemento no topo.
+Verificar o topo (peek): Obtém o elemento do topo sem removê-lo.
