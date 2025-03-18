@@ -54,11 +54,19 @@ print(5 in lista)  # Output: True
 A pilha é uma estrutura de dados que segue o princípio LIFO (Last In, First Out), ou seja, o último elemento inserido é o primeiro a ser removido. As pilhas são amplamente utilizadas em algoritmos de recursão e no gerenciamento de chamadas de funções.
 
 🔸 Principais Operações em Pilhas
+
+
 Push: Inserir um elemento no topo da pilha.
+
 Pop: Remover o elemento do topo da pilha.
+
 Topo: Acessar o topo da pilha sem remover.
+
 Vazia: Verificar se a pilha está vazia.
+
 Exemplo de Pilha em Python:
+
+
 python
 Copiar
 # Criando uma pilha
