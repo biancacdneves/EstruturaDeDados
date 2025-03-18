@@ -67,12 +67,11 @@ topo = pilha[-1]  # Obtendo o topo sem remover
 print(f"Topo da pilha: {topo}")
 Saída:
 
-yaml
-Copiar
 Pilha após empilhar 40: [10, 20, 30, 40]
 Elemento desempilhado: 40
 Pilha após desempilhar: [10, 20, 30]
 Topo da pilha: 30
+
 🔹 Usos Comuns de Pilhas
 A pilha tem várias aplicações práticas e é fundamental para certos processos em programação e sistemas computacionais. Alguns exemplos incluem:
 
