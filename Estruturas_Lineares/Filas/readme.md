@@ -1,4 +1,4 @@
-# explicando o funcionamento da estrutura de dados da pasta,
+# explicando o funcionamento da estrutura de dados Fila,
 
 A fila possui uma estrutura similar à pilha, mas com uma diferença conceitual fundamental: ela segue o princípio FIFO - First In, First Out, ou seja, "o primeiro a entrar, é o último a sair".
 
