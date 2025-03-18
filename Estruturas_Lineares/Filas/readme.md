@@ -1,6 +1,8 @@
 # Explicando o funcionamento da estrutura de dados em fila,
 
-📌 Estrutura de Dados: Fila (Queue)
+📌 Estrutura de Dados: 
+
+Fila (Queue)
 🔹 Introdução
 A fila é uma estrutura de dados linear que segue o princípio FIFO (First In, First Out), ou seja, o primeiro a entrar é o primeiro a sair. Essa organização é muito comum no cotidiano, como em filas de banco, atendimentos médicos ou sistemas de impressão, onde o primeiro a chegar é o primeiro a ser atendido.
 
@@ -22,6 +24,7 @@ Exemplo:
 Fila inicial: [10, 20, 30]
 Operação: Enfileirar 40
 Fila após a operação: [10, 20, 30, 40]
+
 🔹 Desenfileirar (Dequeue)
 A operação desenfileirar remove o primeiro elemento da fila, ou seja, o elemento que foi inserido primeiro. Após essa operação, a fila é reorganizada e o próximo elemento se torna o "início" da fila.
 
