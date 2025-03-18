@@ -1,4 +1,6 @@
-'''exemplificando o funcionamento da estrutura de dados.'''
+'''Exemplificando o funcionamento da estrutura de dados.'''
+
+
 class GerenciadorDeTarefas:
     def __init__(self):
         self.tarefas = [
