@@ -32,6 +32,9 @@ As estruturas de dados, como listas encadeadas, pilhas e filas, são essenciais 
 Dominar esses conceitos é fundamental para se tornar um programador eficiente e capaz de resolver problemas complexos.
 
 Suas principais Operações são:
+
 Acesso: lista[i]
+
 Remoção: remove(), pop()
+
 Inserção: append(), insert()
