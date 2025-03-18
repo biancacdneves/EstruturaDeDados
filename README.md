@@ -30,7 +30,8 @@ Este repositório cobre as seguintes estruturas de dados:
    - Listas
    - Pilhas
    - filas
-
+  4.**Aplicação_Prática**
+     - Resolução do problema
 
 
 
