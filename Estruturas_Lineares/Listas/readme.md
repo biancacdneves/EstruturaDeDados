@@ -1,4 +1,4 @@
-# explicando o funcionamento da estrutura de dados das listas,
+# Explicando o funcionamento da estrutura de dados das listas,
 
 📌 Estrutura de Dados: Listas
 🔹 Introdução
