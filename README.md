@@ -1,7 +1,5 @@
 # Estrutura_de_dados
 
-# Estruturas de Dados
-
 Bem-vindo ao repositório **EstruturasDeDados**! Este repositório contém exemplos práticos e explicações detalhadas sobre diferentes tipos de estruturas de dados, incluindo listas encadeadas, listas ordenadas e árvores binárias, com implementações em **Python, Java e C#**.
 
 ## 📌 Introdução às Estruturas de Dados
