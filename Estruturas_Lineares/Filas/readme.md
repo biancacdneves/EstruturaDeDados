@@ -1,4 +1,4 @@
-# explicando o funcionamento da estrutura de dados em fila,
+# Explicando o funcionamento da estrutura de dados em fila,
 
 📌 Estrutura de Dados: Fila (Queue)
 🔹 Introdução
