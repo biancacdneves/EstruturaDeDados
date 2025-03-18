@@ -1,1 +1,1 @@
-# explicando o funcionamento da estrutura de dados da pasta,
+# explicando o funcionamento da estrutura de dados das pilhas,
