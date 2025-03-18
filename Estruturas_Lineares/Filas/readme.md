@@ -8,15 +8,15 @@ Dessa forma, as operações que podem ser realizadas em uma fila são apenas dua
 
 #As principais operações da estrutura de dados lineares são:
 
-Enfileirar (Enqueue)
-Esta operação adiciona um novo elemento no final da fila. Em outras palavras, insere um item na última posição.
+Enfileirar (Enqueue):
+Neste caso, esta operação adiciona um novo elemento no final da fila. Em outras palavras, insere um item na última posição.
 Exemplo:
 Fila inicial: [10, 20, 30]
 Operação: Enfileirar 40.
 Fila após a operação: [10, 20, 30, 40]
 
-Desenfileirar (Dequeue)
-Esta operação remove o elemento da frente da fila (ou seja, o primeiro elemento a ser inserido). A fila é ajustada, e o próximo elemento se torna o "início" da fila.
+Desenfileirar (Dequeue):
+Neste caso, esta operação remove o elemento da frente da fila (ou seja, o primeiro elemento a ser inserido). A fila é ajustada, e o próximo elemento se torna o "início" da fila.
 Exemplo:
 Fila inicial: [10, 20, 30, 40]
 Operação: Desenfileirar (remover o 10).
