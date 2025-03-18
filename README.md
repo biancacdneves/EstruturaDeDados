@@ -40,3 +40,7 @@ Este repositório cobre as seguintes estruturas de dados:
 # Referências
 
 https://medium.com/@connicet/runtime-vs-compile-time-exploring-memory-allocation-in-python-32bd12acc918
+https://www.alura.com.br/artigos/estruturas-de-dados-introducao
+https://pt.differkinome.com/articles/technology/difference-between-linear-and-nonlinear-data-structures-2.html
+https://blog.marcusoliveiradev.com.br/estruturas-de-dados-listas-encadeadas-pilhas-e-filas/
+
