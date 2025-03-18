@@ -11,17 +11,23 @@ Filas (Queues): Seguem o princípio FIFO (First In, First Out).
 Essas estruturas de dados são utilizadas em uma ampla gama de algoritmos e aplicações, desde o gerenciamento de memória até sistemas de navegação e pesquisa de dados.
 
 🧠 O que são Estruturas de Dados Lineares?
+
+
 Estruturas de dados lineares organizam os elementos de maneira sequencial, ou seja, cada elemento possui um único sucessor (exceto o último) e um único predecessor (exceto o primeiro). O principal objetivo é garantir que os dados sejam acessados e manipulados de forma ordenada e eficiente.
 
-🔹 Tipos de Estruturas Lineares
+🔹 Tipos de Estruturas Lineares:
+
+
 Listas: Armazenam elementos de forma sequencial, com a possibilidade de acesso aleatório aos elementos.
 Pilhas: Seguem o princípio LIFO, onde o último elemento inserido é o primeiro a ser removido.
 Filas: Seguem o princípio FIFO, onde o primeiro elemento inserido é o primeiro a ser removido.
 
 🔹 Listas: Sequências Ordenadas
+
 As listas são coleções ordenadas de elementos, onde cada item pode ser acessado por seu índice. Elas podem ser implementadas como arrays ou listas encadeadas, dependendo da linguagem e da necessidade.
 
 🔸 Principais Operações em Listas
+
 Inserção: Adicionar um elemento à lista.
 Remoção: Remover um elemento da lista.
 Acesso: Acessar um elemento pelo índice.
@@ -44,6 +50,7 @@ print(lista[2])  # Output: 4
 # Verificando se um elemento está na lista
 print(5 in lista)  # Output: True
 🔹 Pilhas: Último a Entrar, Primeiro a Sair (LIFO)
+
 A pilha é uma estrutura de dados que segue o princípio LIFO (Last In, First Out), ou seja, o último elemento inserido é o primeiro a ser removido. As pilhas são amplamente utilizadas em algoritmos de recursão e no gerenciamento de chamadas de funções.
 
 🔸 Principais Operações em Pilhas
