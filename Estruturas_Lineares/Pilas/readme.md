@@ -1,4 +1,4 @@
-# explicando o funcionamento da estrutura de dados das pilhas,
+# Explicando o funcionamento da estrutura de dados das pilhas,
 
 📌 Estrutura de Dados: Pilha (Stack)
 🔹 Introdução
