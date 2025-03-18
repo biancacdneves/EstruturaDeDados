@@ -1,7 +1,12 @@
 📌 Estruturas de Dados Lineares: Listas, Pilhas e Filas
 
-🔹 Introdução:
+🔹 Contribuidores
 
+▪ Bianca Neves
+▪ Davi Mendes
+▪ Enzo Coletto
+
+🔹 Introdução:
 
 Estruturas de dados lineares são fundamentais para a organização e manipulação de dados em programação. Elas permitem armazenar dados de maneira ordenada e realizar operações como inserção, remoção, acesso e busca de forma eficiente. Três das estruturas lineares mais comuns são:
 
