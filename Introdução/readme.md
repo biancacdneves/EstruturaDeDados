@@ -15,6 +15,7 @@ Estruturas de dados lineares organizam os elementos de maneira sequencial, ou se
 Listas: Armazenam elementos de forma sequencial, com a possibilidade de acesso aleatório aos elementos.
 Pilhas: Seguem o princípio LIFO, onde o último elemento inserido é o primeiro a ser removido.
 Filas: Seguem o princípio FIFO, onde o primeiro elemento inserido é o primeiro a ser removido.
+
 🔹 Listas: Sequências Ordenadas
 As listas são coleções ordenadas de elementos, onde cada item pode ser acessado por seu índice. Elas podem ser implementadas como arrays ou listas encadeadas, dependendo da linguagem e da necessidade.
 
