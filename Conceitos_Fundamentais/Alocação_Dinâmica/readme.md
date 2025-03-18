@@ -1,4 +1,5 @@
-# explicando o tipo de alocação de memória da pasta
+# explicando o tipo de alocação de memória dinâmica
+
 Alocação dinâmica de memória em tempo de execução:
 Alocação dinâmica de memória é o processo de alocação de memória para objetos em tempo de execução, em oposição ao tempo de compilação. Ela permite alocação flexível de memória com base nas necessidades do programa, permitindo que estruturas de dados e objetos cresçam ou diminuam dinamicamente.
 
