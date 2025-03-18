@@ -1,4 +1,5 @@
 📌 Estruturas de Dados Lineares: Listas, Pilhas e Filas
+
 🔹 Introdução
 Estruturas de dados lineares são fundamentais para a organização e manipulação de dados em programação. Elas permitem armazenar dados de maneira ordenada e realizar operações como inserção, remoção, acesso e busca de forma eficiente. Três das estruturas lineares mais comuns são:
 
@@ -64,6 +65,7 @@ print(pilha[-1])  # Output: 3
 
 # Verificando se a pilha está vazia
 print(len(pilha) == 0)  # Output: False
+
 🔹 Filas: Primeiro a Entrar, Primeiro a Sair (FIFO)
 A fila segue o princípio FIFO (First In, First Out), onde o primeiro elemento inserido é o primeiro a ser removido. As filas são utilizadas em sistemas de gerenciamento de tarefas, como em impressoras ou processos de execução de programas.
 
@@ -91,6 +93,7 @@ print(fila[0])  # Output: 2
 
 # Verificando se a fila está vazia
 print(len(fila) == 0)  # Output: False
+
 🚀 Conclusão
 Listas são usadas para armazenar sequências de dados ordenados, com acesso direto aos elementos.
 Pilhas seguem a ordem LIFO, sendo úteis para algoritmos que precisam de operações de última entrada, primeira saída.
