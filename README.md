@@ -22,14 +22,14 @@ Este repositório cobre as seguintes estruturas de dados:
    - Alocação_Dinâmica
    - Alocação_Estática
 
-2.**Definição_Impotância**
+2.**Definição_Importância**
    - Inserção e busca eficientes
    - Comparação com listas convencionais
 
 3. **Estruturas_Lineares**
    - Listas
    - Pilhas
-   - filas
+   - Filas
   
      
   4.**Aplicação_Prática**
