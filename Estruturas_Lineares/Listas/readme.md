@@ -7,26 +7,6 @@ A maioria das linguagens de programação oferece métodos nativos para manipula
 No entanto, é importante entender três aspectos principais sobre arrays: 1) em muitas linguagens, os arrays têm tamanho fixo; 2) todos os elementos são armazenados em locais consecutivos na memória; e 3) inserir ou remover elementos no meio do array pode ser complexo, pois requer o deslocamento dos elementos para manter a ordem.
 
 Pilhas (Stacks)
-
-As pilhas são estruturas de dados baseadas em um princípio LIFO (Last-In, First-Out), onde o último elemento inserido é o primeiro a ser removido. 
-Usos das Pilhas
-Gerenciamento de chamadas de funções (recursão).
-Implementação de undo/redo em aplicativos.
-Resolução de problemas envolvendo parênteses e expressões aritméticas.
-# Inicialização da pilha
-pilha <- []
-
-# Adicionando elementos à pilha
-Para cada elemento em [A, B, C, D]:
-    Empilhar pilha, elemento
-Fim Para
-
-# Removendo elementos da pilha (desempilhar)
-Enquanto pilha não estiver vazia:
-    elemento <- Desempilhar pilha
-    Escrever elemento
-Fim Enquanto
-Filas (Queues)
 As filas, ao contrário das pilhas, seguem o princípio FIFO (First-In, First-Out), onde o primeiro elemento inserido é o primeiro a ser removido. Logo, vamos examinar:
 
 Aplicações das Filas
