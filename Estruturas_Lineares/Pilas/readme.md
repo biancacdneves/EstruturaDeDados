@@ -20,6 +20,9 @@ Outro exemplo cotidiano que utiliza pilhas é o mecanismo de "voltar" e "avança
 
 
 Suas Principais Operações são: 
-Desempilhar (pop): Remove o elemento do topo.
+
+Desempilhar (pop): Remove o elemento do topo
+
 Empilhar (push): Adiciona um elemento no topo.
+
 Verificar o topo (peek): Obtém o elemento do topo sem removê-lo.
