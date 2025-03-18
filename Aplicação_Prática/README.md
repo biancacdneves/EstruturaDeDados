@@ -39,7 +39,7 @@ Funcionamento do Sistema:
     - `enqueue(pedido)`: Adiciona um pedido ao final da fila.
     - `dequeue()`: Remove o pedido que está no início da fila e o processa.
 
-Implementação:
 
 
-A implementação do problema pode ser encontrada no arquivo `sistema_pedidos.py`.
+
+
