@@ -72,7 +72,7 @@ O uso de arrays com redimensionamento manual, somado à implementação explíci
 
 🧩 Exemplo de Uso
 
-=== MENU PRINCIPAL ===
+<b>=== MENU PRINCIPAL ===
 1 - Cadastrar
 2 - Rastrear
 3 - Visualizar
