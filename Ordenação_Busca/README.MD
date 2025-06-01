@@ -72,22 +72,16 @@ O uso de arrays com redimensionamento manual, somado à implementação explíci
 
 🧩 Exemplo de Uso
 
-<b>=== MENU PRINCIPAL ===
-
+<b> PRINCIPAL 
 1 - Cadastrar
-
 2 - Rastrear
-
 3 - Visualizar
-
 4 - Remover
-
 0 - Sair
 
 Escolha: 1
 
---- Menu Cadastrar ---
-
+Cadastrar 
 1 - Cadastrar Local
 
 2 - Cadastrar Rota entre Locais
