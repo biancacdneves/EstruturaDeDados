@@ -126,7 +126,7 @@ Entrega E123 registrada com sucesso.
 
 Escolha: 2 (Rastrear)
 
---- Menu Rastrear ---
+Rastrear 
 
 1 - Buscar melhor rota
 
@@ -148,7 +148,7 @@ Tempo estimado: 6h
 
 Escolha: 2 (Visualizar)
 
---- Menu Visualizar ---
+Visualizar 
 
 1 - Listar Entregas
 
