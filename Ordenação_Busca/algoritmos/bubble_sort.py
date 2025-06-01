@@ -1,0 +1,1 @@
+def bubble_sort(lista, chave=None, reverso=False): n = len(lista) for i in range(n): for j in range(0, n - i - 1): a = lista[j][chave] if chave else lista[j] b = lista[j + 1][chave] if chave else lista[j + 1] if (a > b and not reverso) or (a < b and reverso): lista[j], lista[j + 1] = lista[j + 1], lista[j] return lista 
