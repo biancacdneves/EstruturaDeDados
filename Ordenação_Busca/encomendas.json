@@ -1,0 +1,1 @@
+[ { "codigo": "ABC123456BR", "cep": "12345-678", "rota": "R1", "historico": [ {"status": "Entregue", "data": "2025-05-30 14:12"}, {"status": "Saiu para entrega", "data": "2025-05-30 09:00"}, {"status": "Em trânsito", "data": "2025-05-29 20:30"}, {"status": "Recebido no centro de distribuição", "data": "2025-05-28 18:00"} ] } ] 
