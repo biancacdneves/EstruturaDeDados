@@ -73,6 +73,7 @@ O uso de arrays com redimensionamento manual, somado à implementação explíci
 🧩 Exemplo de Uso
 
 <b>=== MENU PRINCIPAL ===
+
 1 - Cadastrar
 
 2 - Rastrear
@@ -86,6 +87,7 @@ O uso de arrays com redimensionamento manual, somado à implementação explíci
 Escolha: 1
 
 --- Menu Cadastrar ---
+
 1 - Cadastrar Local
 
 2 - Cadastrar Rota entre Locais
@@ -93,13 +95,17 @@ Escolha: 1
 3 - Cadastrar Entrega
 
 0 - Voltar
+
 Escolha: 1
 
 Nome do Local: Centro SP
+
 Tipo (Centro de Distribuição / Cidade): Centro de Distribuição
+
 Local cadastrado com sucesso!
 
 Escolha: 2
+
 Origem: Centro SP
 
 Destino: Cidade RJ
@@ -113,6 +119,7 @@ Custo (R$): 120.00
 Rota registrada com sucesso!
 
 Escolha: 3
+
 Código da entrega: E123
 
 Destino: Cidade RJ
@@ -121,11 +128,12 @@ Data prevista: 2025-06-05
 
 Prioridade (1-Alta, 2-Média, 3-Baixa): 1
 
-Entrega E123 registrada com sucesso!
+Entrega E123 registrada com sucesso.
 
-Escolha: 2
+Escolha: 2 (Rastrear)
 
 --- Menu Rastrear ---
+
 1 - Buscar melhor rota
 
 2 - Listar entregas por prioridade
@@ -144,15 +152,15 @@ Melhor rota encontrada: Centro SP → Cidade RJ
 
 Tempo estimado: 6h
 
-Escolha: 3
+Escolha: 2 (Visualizar)
 
 --- Menu Visualizar ---
+
 1 - Listar Entregas
 
 2 - Buscar Entrega por Código
 
 3 - Ver Rotas a partir de um Local
-
 Escolha: 1
 
 Critério de ordenação: prioridade
@@ -160,11 +168,14 @@ Critério de ordenação: prioridade
 Entregas listadas com sucesso:
 
 [E123] → Cidade RJ | Prioridade: Alta | Status: Pendente
+...
 
-Escolha: 4
+Escolha: 4 (Remover)
+
 Código da entrega: E123
 
 Entrega E123 removida com sucesso.
+
 
 
 
